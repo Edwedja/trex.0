@@ -17,7 +17,7 @@ function setup(){ // todas as configuraçoes dos objetos
 
   edges = createEdgeSprites();
  
-  trex = createSprite(300,190,600,20);
+  solo = createSprite(300,190,600,20);
 }
 
 function draw(){
